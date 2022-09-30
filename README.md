@@ -3,7 +3,10 @@
 <p>SoulKlibur es un pequeño videojuego web donde elegimos un personaje
 para enfrenar al bot, quien tambien elige un presonaje aleatoriamente y asi tenemos un combate
 con elementos como ataque. Al final el ganador de este combate sera quien posea mas victorias
-dentro de los 5 intentos de atacar</p>
+dentro de los 5 intentos de atacar.</p>
+
+<p>Asi era al principio, con el tiempo se cambio la logica del videojuego para poder enfrentarse entre jugadores que ingresan a la misma pagina web
+y escogen sus personajes. Se le dio dinamismo a la seleccion de personajes, a los ataques, el movimiento en el mapa de canvas y al combate.</p>
 
 ## Tecnologias utilizadas
 
